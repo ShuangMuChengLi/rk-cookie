@@ -1,9 +1,10 @@
 {
     "name": "rk-cookie",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "private": false,
     "main": "dist/index.js",
     "types": "dist/src/index.d.ts",
+    "homepage": "https://github.com/ShuangMuChengLi/rk-cookie",
     "files": [
         "dist",
         "demo"
